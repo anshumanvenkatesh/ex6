@@ -1,2 +1,5 @@
 HI.
 This is intended to contain docs about ex 6
+
+This program takes a real valued expressions and outputs their arithmetic result after parsing through the input and
+applying the appropriate reductions at each stage
